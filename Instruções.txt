@@ -1,0 +1,10 @@
+Instruções de uso do programa Traçador de rotas
+
+1- Abra o programa "Traçador de rotas.pyw" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- No campo "IP ou URL" digite o número do IP da máquina ou endereço do site que deseja traçar a rota.
+
+3- Clique em "Traçar rota" e espere.
+
+OBS: Tracert é um comando do CMD (Prompt de comandos do Windows) que serve para traçar a rota do seu computador até o IP ou site desejado, e isso pode demorar um minuto ou mais porque o tracert traça a rota em até 30 níveis.
